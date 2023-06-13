@@ -1,0 +1,15 @@
+{
+  "name": "Buy Me A Coffee",
+  "description": "A plugin designed to help you get more coffee ☕",
+  "author": "SpegalDev",
+  "email": "ryan@spegal.dev",
+  "website": "https://spegal.dev",
+  "repository": "https://github.com/SpegalDev/Bludit-BuyMeACoffee",
+  "version": "1.0",
+  "min-bludit-version": "3.14.1",
+  "max-bludit-version": "",
+  "icon": "fa-coffee",
+  "sidebar": false,
+  "homepage": false,
+  "tags": ["bludit", "plugin", "buymeacoffee"]
+}
