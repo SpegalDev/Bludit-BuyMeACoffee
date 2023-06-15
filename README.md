@@ -10,4 +10,4 @@ A Bludit plugin designed to help you get more coffee ☕
 
 -----
 
-If you enjoy this plugin, please consider [buying me a coffee](https://out.spegal.dev/coffee)! 😁
+If you find this plugin useful, consider [buying me a coffee ☕](https://out.spegal.dev/coffee)
