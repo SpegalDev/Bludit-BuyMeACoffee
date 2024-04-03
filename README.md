@@ -1,4 +1,8 @@
 # Bludit-BuyMeACoffee
+For an updated version, visit BluditPro: https://bluditpro.com/plugins/e-commerce/buy-me-a-coffee
+
+-----
+
 A Bludit plugin designed to help you get more coffee ☕
 
 * Can enable an image + link in sidebar to your BuyMeACoffee page.
