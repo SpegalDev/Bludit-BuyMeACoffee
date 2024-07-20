@@ -1,5 +1,5 @@
 # Bludit-BuyMeACoffee
-For an updated version, visit BluditPro: https://bluditpro.com/plugins/e-commerce/buy-me-a-coffee
+For an updated version, visit BluditLab: https://bluditlab.com/plugins/e-commerce/buy-me-a-coffee
 
 -----
 
