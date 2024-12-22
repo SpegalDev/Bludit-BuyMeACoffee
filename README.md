@@ -14,4 +14,6 @@ A Bludit plugin designed to help you get more coffee ☕
 
 -----
 
-If you find this plugin useful, consider [buying me a coffee ☕](https://out.spegal.dev/coffee)
+If you find this plugin useful, consider buying me a coffee or two.
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K7MJJ4Y)
